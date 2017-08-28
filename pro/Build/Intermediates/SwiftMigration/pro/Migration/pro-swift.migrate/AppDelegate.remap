@@ -1,0 +1,24 @@
+[
+ {
+  "file": "/Users/aberodriguez/Documents/NIU Classes/Fall 2015/CSCI 321 - iOS Mobile Program/pro/pro/AppDelegate.swift",
+  "offset": 271,
+  "text": "_ ",
+ },
+ {
+  "file": "/Users/aberodriguez/Documents/NIU Classes/Fall 2015/CSCI 321 - iOS Mobile Program/pro/pro/AppDelegate.swift",
+  "offset": 286,
+  "remove": 3,
+  "text": "N",
+ },
+ {
+  "file": "/Users/aberodriguez/Documents/NIU Classes/Fall 2015/CSCI 321 - iOS Mobile Program/pro/pro/AppDelegate.swift",
+  "offset": 404,
+  "text": "_ ",
+ },
+ {
+  "file": "/Users/aberodriguez/Documents/NIU Classes/Fall 2015/CSCI 321 - iOS Mobile Program/pro/pro/AppDelegate.swift",
+  "offset": 419,
+  "remove": 3,
+  "text": "N",
+ }
+]
